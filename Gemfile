@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #追記
 gem 'ffi', '~> 1.15.0'
+gem 'net-http'
+gem 'faker'
