@@ -60,6 +60,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'annotate'
 gem 'better_errors'
 gem 'binding_of_caller'
+gem 'devise'
 gem 'faker'
 gem 'ffi', '~> 1.15.0'
 gem 'hamlit'
