@@ -33,6 +33,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'pry-byebug'
   gem 'rubocop-rails'
+  gem 'dotenv-rails'
 end
 
 group :development do
@@ -65,3 +66,4 @@ gem 'faker'
 gem 'ffi', '~> 1.15.0'
 gem 'hamlit'
 gem 'net-http'
+gem 'aws-sdk-s3', require: false
